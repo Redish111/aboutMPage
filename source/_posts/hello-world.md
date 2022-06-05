@@ -1,26 +1,13 @@
 ---
-title: hexo的使用
+title: 易语言 GDI绘制图片源码
+date:2022-5-29
 ---
-# 文章添加
+# 引用GDI模块
 
-## 编写文章
+## GDI图片绘制[点击查看原帖](https://bbs.125.la/forum.php?mod=viewthread&tid=14731741)
 
-Hexo使用Markdown格式进行文章编写，您可以在[这里](https://markdown.com.cn)查看教程。  
-
-文件名类似于这样`文章英文标题.md`。  
-
-每篇文章的最开头应该有这样一个东西：
-
-```markdown
----
-title: 文章标题
----
-```
-
-## 发布文章
-
-在本地书写好markdown文件后上传到远程仓库的`source/_posts`目录，等待`Vercel`部署，即可。
-
-## 删除文章
-
-删除文章对应的markdown文件即可。
+[免费下载链接](https://bingdiandian-my.sharepoint.cn/personal/yuanyukuang_bingdiandian_partner_onmschina_cn/_layouts/15/download.aspx?UniqueId=08053635-e963-4ac5-9341-835f0329987c&Translate=false&tempauth=eyJ0eXAiOiJKV1QiLCJhbGciOiJub25lIn0.eyJhdWQiOiIwMDAwMDAwMy0wMDAwLTBmZjEtY2UwMC0wMDAwMDAwMDAwMDAvYmluZ2RpYW5kaWFuLW15LnNoYXJlcG9pbnQuY25AYmU1YTI5ZDItOGIzYi00YzRhLTlmMzUtYmVjYjI2OWU1NTZiIiwiaXNzIjoiMDAwMDAwMDMtMDAwMC0wZmYxLWNlMDAtMDAwMDAwMDAwMDAwIiwibmJmIjoiMTY1NDM4OTIyOSIsImV4cCI6IjE2NTQzOTI4MjkiLCJlbmRwb2ludHVybCI6IjhJMmZxakt0MmpybTRSdGFQemlrSzNuWDE2eEtRRHdDbnplVi9UN0EvUkU9IiwiZW5kcG9pbnR1cmxMZW5ndGgiOiIxODAiLCJpc2xvb3BiYWNrIjoiVHJ1ZSIsImNpZCI6Ik5UZG1NamxpWVdNdE1XTmlOUzAwWW1VeUxXRXlZV0l0TWpCaU1XUTJaV1UzT1dWaCIsInZlciI6Imhhc2hlZHByb29mdG9rZW4iLCJzaXRlaWQiOiJNRE5sWldNNE56WXRNV05sWlMwME9HTTRMV0ZtT0RFdE1qTmxOR0U0T1dObU5EVTAiLCJhcHBfZGlzcGxheW5hbWUiOiJiYnMxMjVsYSIsImFwcGlkIjoiODdmZjQ4MmUtNThhZS00N2Q1LWE0OTUtOGJkZjBiYjdhODEyIiwidGlkIjoiYmU1YTI5ZDItOGIzYi00YzRhLTlmMzUtYmVjYjI2OWU1NTZiIiwidXBuIjoieXVhbnl1a3VhbmdAYmluZ2RpYW5kaWFuLnBhcnRuZXIub25tc2NoaW5hLmNuIiwicHVpZCI6IjEwMDMzMjMwQzVBQjQ5NkMiLCJjYWNoZWtleSI6IjBoLmZ8bWVtYmVyc2hpcHwxMDAzMzIzMGM1YWI0OTZjQGxpdmUuY29tIiwic2NwIjoiYWxsZmlsZXMud3JpdGUgYWxscHJvZmlsZXMucmVhZCIsInR0IjoiMiIsInVzZVBlcnNpc3RlbnRDb29raWUiOm51bGwsImlwYWRkciI6IjQwLjcyLjc0LjE5MiJ9.S0xTRUhDRUJ4UXVCUGx4dVBKUzNrV1laRjJpUTV5Uk5hOWJRaWk5QmdQWT0&ApiVersion=2.0)
+窗口截图
+<img src="https://att.125.la/data/attachment/forum/202205/28/150344fzzzab4vqqz1ipaa.png" onload="thumbImg(this)" border="0" width="1000" height="545" style="cursor: pointer;">
+代码截图
+<img src="https://att.125.la/data/attachment/forum/202205/28/150344fzzzab4vqqz1ipaa.png" onload="thumbImg(this)" border="0" width="1000" height="545" style="cursor: pointer;">
