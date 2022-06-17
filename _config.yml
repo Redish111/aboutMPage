@@ -3,17 +3,17 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: CHY Blog
+title: Czw's Blog
 subtitle: '认识你是我最开心的事'
-description: '分享数码知识'
+description: '易语言知识分享'
 keywords:
-author: CHY
+author: Czw
 language: zh-CN
 timezone: ''
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: http://chy.vercel.app
+url: https://czwblog.geeklab.work
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 pretty_urls:
